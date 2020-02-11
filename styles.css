@@ -1,0 +1,145 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color:white;
+  font-family: 'Merriweather', serif;
+
+}
+hr{
+  border-color:#EA6;
+  border-width:4px;
+  border-style:dotted none none none;
+  height:10px;
+
+  width: 50px;
+}
+
+img{
+  height: 250px;
+  width: 250px;
+  background-color: #beebe9;
+}
+.imgb0{
+  border-radius: 80px;
+  height:200px;
+  width:200px;
+}
+.imgb{
+  border-radius: 80px;
+  height:200px;
+  width:200px;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.imgb1
+{
+  border-radius: 80px;
+  height:200px;
+  width:200px;
+  float: right;
+  margin-left: 30px;
+
+}
+
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+
+  color: #11999E;
+
+;
+}
+
+a
+{
+  color: #11999E;
+}
+ h1{
+   margin: 0;
+   font-family: 'Sacramento', cursive;
+   font-size: 5.25rem;
+   color: #66BFBF;
+
+ }
+
+
+
+ /*#########################classes#################################*/
+
+ .bottom-cloud{
+   position: absolute;
+   right:450px;
+   top :245px;
+   height:auto;
+   width:auto;
+
+ }
+
+ .top-cloud{
+   position:absolute;
+   left:450px;
+   top:245px;
+   height:auto;
+   width:auto;
+ }
+
+.top-container
+{
+  background-color:#beebe9;
+  position: relative;
+  padding:50px 0 30px 0;
+}
+.headi
+{
+  line-height: normal;
+
+}
+.profile
+{
+
+  padding: 20px 0 ;
+  background-color: #fffdf9;
+}
+
+.contact-me
+{
+padding: 10px 0 10px 0;
+background-color: #fffdf9;
+}
+
+.skills
+{
+  padding: 10px 0 10px 0;
+  background-color: #fffdf9;
+}
+.normal
+{
+  font-weight: normal;
+  line-height: normal;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto ;
+  text-align: left;
+  line-height: 2;
+
+}
+.bottom-container{
+
+  background-color: #66BFBF;
+padding:  15px 0;
+word-spacing: 5;
+line-height: 2}
+.copy{
+  color:#EAF6F6;
+}
